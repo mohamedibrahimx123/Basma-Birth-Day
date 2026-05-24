@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        arabic: ["var(--font-tajawal)", "Tahoma", "sans-serif"],
+        arabic: ["Tahoma", "Segoe UI", "Arial", "sans-serif"],
       },
       colors: {
         rose: {
